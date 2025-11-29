@@ -1,4 +1,4 @@
-# Technology_Stack_Justification.md
+# Technology_Stack_Justification
 **Project:** Real-time Multi-user To-Do List Application
 
 ---
