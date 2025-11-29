@@ -27,5 +27,5 @@
 
 ### 1. ดาวน์โหลดโปรเจกต์ (Clone)
 ```bash
-git clone [https://github.com/ช](https://github.com/ช)ื่อUserของคุณ/ชื่อRepoของคุณ.git
-cd ชื่อRepoของคุณ
+git clone https://github.com/tanapatkokw-dev/MytodoList.git
+cd MytodoList
